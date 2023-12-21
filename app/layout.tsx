@@ -14,7 +14,7 @@ export const metadata = {
   title: "Sukhdev Miyatra | Personal Portfolio",
   description: "Sukhdev Miyatra",
   icons: {
-    icon:['/favion.ico']
+    icon:['favion.ico']
   }
 };
 
