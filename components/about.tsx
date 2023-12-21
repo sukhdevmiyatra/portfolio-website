@@ -21,23 +21,17 @@ export default function About() {
       <p className="mb-3">
         After graduating with a degree in{" "}
         <span className="font-medium">Commerce</span>, I decided to pursue my
-        passion for programming. I learned{" "}
-        <span className="font-medium">full-stack web development and data analytics</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
+        passion for Technology. I learned{" "}
+        <span className="font-medium">Content Writing, Full-stack web development and Data analytics</span>.{" "}
+        <span className="italic">My favorite part </span> is the
         problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React and Node.js
-        </span>
-        . I am also familiar with Python and Data Analysis. I am always looking to
-        learn new skills. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        feeling of finally figuring out a solution to a problem. {" "}       
+        I am also familiar with Python and Data Analysis. I am always looking to
+        learn new skills.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
+        <span className="italic">When I'm not working</span>, I enjoy playing
         video games, reading books, writing blogs, and watching TV Shows. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am interested
         learning about{" "}

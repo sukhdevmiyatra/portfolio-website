@@ -7,11 +7,15 @@ import ThemeSwitch from "@/components/theme-switch";
 import ThemeContextProvider from "@/context/theme-context";
 import { Toaster } from "react-hot-toast";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Sukhdev Miyatra | Personal Portfolio",
   description: "Sukhdev Miyatra",
+  icons: {
+    icon:['/favion.ico']
+  }
 };
 
 export default function RootLayout({
