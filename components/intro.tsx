@@ -54,8 +54,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Sukhdev Miyatra.</span> I'm interested in business analyst and got a{" "}
-        solid handle on Power BI and Python, focusing on libraries like NumPy and Pandas for
-        working with data. I'm also quite skilled at creating informative data visuals using tools like Excel, and
+        solid handle on Power BI and Python. I'm also quite skilled at creating informative data visuals using tools like Excel, and
         Power BI. SQL is in my toolkit too, helping me pull valuable insights from databases efficiently.
         
       </motion.h1>
