@@ -55,7 +55,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Sukhdev Miyatra.</span> I'm interested in business analyst and got a{" "}
         solid handle on Power BI and Python. I'm also quite skilled at creating informative data visuals using tools like Excel, and
-        Power BI. SQL is in my toolkit too, helping me pull valuable insights from databases efficiently.
+        Power BI. SQL is in my toolkit too.
         
       </motion.h1>
 
