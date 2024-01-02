@@ -53,8 +53,10 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Sukhdev Miyatra.</span> I'm a{" "}
-        <span className="font-bold">a content writer and hobbyist programmer with expertise in creating impactful content with a portfolio of over 200 articles.</span> 
+        <span className="font-bold">Hello, I'm Sukhdev Miyatra.</span> I'm interested in business analyst and got a{" "}
+        <span className="font-bold">  solid handle on Power BI and Python, focusing on libraries like NumPy and Pandas for
+working with data. I'm also quite skilled at creating informative data visuals using tools like Excel, and
+Power BI. SQL is in my toolkit too, helping me pull valuable insights from databases efficiently.</span> 
         
       </motion.h1>
 
