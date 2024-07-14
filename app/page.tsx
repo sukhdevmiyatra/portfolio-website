@@ -7,8 +7,7 @@ import SectionDivider from "@/components/section-divider";
 import Skills from "@/components/skills";
 
 export default function Home() {
-  return (
-    <meta name="google-site-verification" content="7PDvFw49SH5jpl2eS6uTShZvwGvGpOhhxbyPschOSkY" />
+  return (   
     <main className="flex flex-col items-center px-4">
       <Intro />
       <SectionDivider />
